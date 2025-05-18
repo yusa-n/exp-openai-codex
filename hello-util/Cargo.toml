@@ -1,7 +1,6 @@
 [package]
-name = "hello_rust"
+name = "hello-util"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-hello-util = { path = "../hello-util" }

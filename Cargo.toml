@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hello-rust",
+    "hello-util"
+]
+resolver = "2"

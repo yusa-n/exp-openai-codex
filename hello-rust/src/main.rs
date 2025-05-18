@@ -1,3 +1,6 @@
+use hello_util::add;
+
 fn main() {
-    println!("Hello, world!");
+    let sum = add(2, 3);
+    println!("2 + 3 = {}", sum);
 }
